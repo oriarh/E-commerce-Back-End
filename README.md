@@ -7,6 +7,7 @@ This project is building the back end for an e-commerce site. Its using sequeliz
 https://github.com/oriarh/E-commerce-Back-End
 
 ## Walkthrough Video Link
+https://watch.screencastify.com/v/N668KnoONg6YCd2IhZON
 
 
 ## Installation
